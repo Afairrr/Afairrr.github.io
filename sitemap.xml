@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://afairrr.github.io/musics/index.html</loc>
+    
+    <lastmod>2021-09-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://afairrr.github.io/article/fe570e62.html</loc>
     
-    <lastmod>2021-09-01</lastmod>
+    <lastmod>2021-09-04</lastmod>
     
   </url>
   
   <url>
     <loc>https://afairrr.github.io/article/23a0e66.html</loc>
     
-    <lastmod>2021-09-01</lastmod>
+    <lastmod>2021-09-03</lastmod>
     
   </url>
   
@@ -46,29 +53,29 @@
 
   <url>
     <loc>https://afairrr.github.io/</loc>
-    <lastmod>2021-09-01</lastmod>
+    <lastmod>2021-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://afairrr.github.io/tags/Hexo/</loc>
+    <lastmod>2021-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://afairrr.github.io/tags/IDEA/</loc>
-    <lastmod>2021-09-01</lastmod>
+    <lastmod>2021-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://afairrr.github.io/tags/%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2021-09-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://afairrr.github.io/tags/Hexo/</loc>
-    <lastmod>2021-09-01</lastmod>
+    <lastmod>2021-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -76,15 +83,15 @@
 
   
   <url>
-    <loc>https://afairrr.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2021-09-01</lastmod>
+    <loc>https://afairrr.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2021-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://afairrr.github.io/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2021-09-01</lastmod>
+    <loc>https://afairrr.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2021-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

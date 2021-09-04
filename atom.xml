@@ -6,7 +6,7 @@
   <link href="https://afairrr.github.io/atom.xml" rel="self"/>
   
   <link href="https://afairrr.github.io/"/>
-  <updated>2021-09-01T12:31:32.831Z</updated>
+  <updated>2021-09-03T01:08:15.867Z</updated>
   <id>https://afairrr.github.io/</id>
   
   <author>
@@ -21,8 +21,16 @@
     <link href="https://afairrr.github.io/article/23a0e66.html"/>
     <id>https://afairrr.github.io/article/23a0e66.html</id>
     <published>2021-08-29T06:40:56.000Z</published>
-    <updated>2021-09-01T12:31:32.831Z</updated>
+    <updated>2021-09-03T01:08:15.867Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Hexo博客搭建&quot;&gt;&lt;a href=&quot;#Hexo博客搭建&quot; class=&quot;headerlink&quot;</summary>
+        
+      
     
     
     
@@ -38,16 +46,15 @@
     <link href="https://afairrr.github.io/article/fe570e62.html"/>
     <id>https://afairrr.github.io/article/fe570e62.html</id>
     <published>2021-08-28T01:29:13.000Z</published>
-    <updated>2021-09-01T12:32:32.124Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/IDEA-Hot-Key/image-20210829133056441-16302179220471.png"></p><p><strong>工欲善其事，必先利其器！</strong></p><p>IDEA的快捷键组合又多又全，掌握快捷键的使用可以让我们能够更加高效的开发，以下是我摘录的一些必要的快捷键，开发直接快了不少呢。</p><blockquote><p>这是IDEA的常用快捷键列表</p></blockquote><ul><li><code>Alt+回车</code> 导入包,自动修正</li><li><code>Ctrl+N </code> 查找类</li><li><code>Ctrl+Shift+N</code> 查找文件</li><li><code>Ctrl+Alt+L</code> 格式化代码</li><li><code>Ctrl+Alt+O</code> 优化导入的类和包</li><li><code>Alt+Insert</code> 生成代码(如get,set方法,构造函数等)</li><li><code>Ctrl+E</code>或者<code>Alt+Shift+C</code>最近更改的代码</li><li><code>Ctrl+R</code> 替换文本</li><li><code>Ctrl+F</code> 查找文本</li><li><code>Ctrl+Shift+Space</code> 自动补全代码</li><li><code>Ctrl+Alt+Space</code>类名或接口名提示</li><li><code>Ctrl+P</code> 方法参数提示</li><li><code>Ctrl+Shift+Alt+N</code> 查找类中的方法或变量</li><li><code>Alt+Shift+C</code> 对比最近修改的代码</li><li><code>Shift+F6</code> 重构-重命名</li><li><code>Ctrl+X</code>删除行</li><li><code>Ctrl+D</code> 复制行</li><li><code>Ctrl+/</code>或 <code>Ctrl+Shift+/ </code> 注释（// 或者/<em>…</em>/ ）</li><li><code>Ctrl+J</code> 自动代码</li><li><code>Ctrl+E</code> 最近打开的文件</li><li><code>Ctrl+H</code> 显示类结构图</li><li><code>Ctrl+Q</code> 显示注释文档</li><li><code>Alt+F1</code> 查找代码所在位置</li><li><code>Alt+1</code> 快速打开或隐藏工程面板</li><li><code>Ctrl+Alt+ left/right</code> 返回至上次浏览的位置</li><li><code>Alt+ left/right</code> 切换代码视图</li><li><code>Alt+ Up/Down</code> 在方法间快速移动定位</li><li><code>Ctrl+Shift+Up/Down</code>代码向上/下移动。</li><li><code>F2</code> 或<code>Shift+F2</code> 高亮错误或警告快速定位</li><li>代码标签输入完成后，按<code>Tab</code>，生成代码。</li><li>选中文本，按<code>Ctrl+Shift+F7</code> ，高亮显示所有该文本，按<code>Esc</code>高亮消失。</li><li>选中文本，按<code>Alt+F3 </code>，逐个往下查找相同文本，并高亮显示。</li><li><code>Ctrl+B</code> 快速打开光标处的类或方法</li><li><code>Ctrl＋E</code>，可以显示最近编辑的文件列表</li><li><code>Ctrl＋Shift＋Backspace</code>可以跳转到上次编辑的地方</li><li><code>Ctrl＋F12</code>，可以显示当前文件的结构</li><li><code>Ctrl＋F7</code>可以查询当前元素在当前文件中的引用，然后按<code>F3</code>可以选择</li><li><code>Ctrl＋N</code>，可以快速打开类</li><li><code>Ctrl＋Shift＋N</code>，可以快速打开文件</li><li><code>Alt＋Q</code>可以看到当前方法的声明</li><li><code>Ctrl＋W</code>可以选择单词继而语句继而行继而函数</li><li><code>Alt＋F1</code>可以将正在编辑的元素在各个面板中定位</li><li><code>Ctrl＋Shift＋Insert</code>可以选择剪贴板内容并插入</li><li><code>Alt＋Insert</code>可以生成构造器/Getter/Setter等</li><li><code>Ctrl＋Alt＋V </code>可以引入变量。例如把括号内的<code>SQL</code>赋成一个变量</li><li><code>Ctrl＋Alt＋T</code>可以把代码包在一块内，例如<code>try/catch</code></li><li><code>Alt＋Up</code> and <code>Alt＋Down</code>可在方法间快速移动</li></ul>]]></content>
+    <updated>2021-09-04T02:13:41.497Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/images/IDEA-Hot-Key/image-20210829133056441-16302179220471.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;工欲善其事，必先利其器！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;IDEA的快捷键组合又多又全，掌握</summary>
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img</summary>
+        
       
     
     

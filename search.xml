@@ -8,7 +8,7 @@
       <link href="/article/23a0e66.html"/>
       <url>/article/23a0e66.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="Hexo博客搭建"><a href="#Hexo博客搭建" class="headerlink" title="Hexo博客搭建"></a>Hexo博客搭建</h1><p>对于技术的同学而言，自己动手搭建博客会是一个很好地锻炼，以及可以进行个性化配置，接下来我要介绍我是怎么基于Hexo搭建博客的。</p><blockquote><p><a href="https://afairrr.github.io/">我的博客</a>是基于Hexo的hexo-theme-matery主题构建，使用了多种Hexo集成的插件做了一些优化。</p></blockquote><p>什么是hexo?</p><blockquote><p><a href="https://hexo.io/zh-cn/">Hexo</a> 是一个快速、简洁且高效的博客框架。Hexo 支持支持 Markdown,可以实现一键部署，与数种模板引擎（EJS，Pug，Nunjucks）和工具（Babel，PostCSS，Less/Sass）轻易集成</p></blockquote><h2 id="1-安装Hexo"><a href="#1-安装Hexo" class="headerlink" title="1.安装Hexo"></a>1.安装Hexo</h2><h2 id="2-配置主题"><a href="#2-配置主题" class="headerlink" title="2.配置主题"></a>2.配置主题</h2><h2 id="3-部署"><a href="#3-部署" class="headerlink" title="3.部署"></a>3.部署</h2><h2 id="4-优化"><a href="#4-优化" class="headerlink" title="4.优化"></a>4.优化</h2>]]></content>
       
       
       <categories>
