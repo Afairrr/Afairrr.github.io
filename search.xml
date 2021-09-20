@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Mac常用快捷键</title>
+      <link href="/article/4d0c05f6.html"/>
+      <url>/article/4d0c05f6.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Mac常用快捷键"><a href="#Mac常用快捷键" class="headerlink" title="Mac常用快捷键"></a>Mac常用快捷键</h1><blockquote><p>对于一个刚接触使Mac的新手而言，会感觉Mac好难用，与Windows系统差别很大，上手很不习惯。这里我推荐一些方便的快捷键，可以在工作中事半功倍。</p></blockquote><h2 id="系统常用快捷键"><a href="#系统常用快捷键" class="headerlink" title="系统常用快捷键"></a>系统常用快捷键</h2><ul><li><code>COMMAND</code>+<code>SHIFT</code>+<code>G</code>     用于<code>Finder</code>跳转到对应文件夹名称下</li><li><code>COMMAND</code>+<code>Q</code> 关闭当前应用</li><li><code>CONTROL</code>+<code>鼠标右键</code> 类似windows的鼠标右键的操作</li><li><code>COMMAND</code>+<code>SHIFT</code>+<code>4</code> 截图插件</li><li><code>COMMAND</code>+<code>SHIFT</code>+<code>3</code> 截取当前屏幕</li><li><code>COMMAND</code>+<code>M</code> 最小化窗口</li><li><code>COMMAND</code>+<code>W</code> 关闭当前页面窗口</li><li><code>COMMAND</code>+<code>F3</code> 显示桌面</li><li><code>COMMAND</code>+<code>H</code> 隐藏窗口</li><li><code>COMMAND</code>+<code>SHIFT</code>+<code>Q</code> 锁屏</li><li><code>CONTROL</code>+<code>SHIFT</code>+<code>右上角的启动按钮</code>  快速锁屏</li><li><code>COMMAND</code>+<code>O</code> 打开所选项文件所在位置</li><li><code>COMMAND</code>+<code>TAB</code> 切换</li><li><code>CONTROL</code>+<code>COMMAND</code>+<code>F</code> 全屏</li><li><code>COMMAND</code>+<code>SPACE</code> 聚焦搜索</li><li><code>COMMAND</code>+<code>OPTION</code>+<code>ESC</code> 强制退出应用</li><li><code>CAPS LOCK</code> 用于切换输入法的中英输入</li><li><code>SHIFT</code> 长按+字母  输出字母的大写</li></ul><h2 id="文件编辑的常用快捷键"><a href="#文件编辑的常用快捷键" class="headerlink" title="文件编辑的常用快捷键"></a>文件编辑的常用快捷键</h2><ul><li><p><code>Fn</code>+:arrow_up: 向上一页</p></li><li><p><code>Fn</code>+:arrow_down: 向下一页</p></li><li><p><code>COMMAND</code>+:arrow_left: 本行开头</p></li><li><p><code>COMMAND</code>+:arrow_right: 本行结尾</p></li><li><p><code>OPTION</code>+:arrow_left: 上个单词的末尾</p></li><li><p><code>OPTION</code>+:arrow_right: 下个单词的末尾</p></li><li><p><code>CONTROL</code>+<code>A</code>到段落的开头</p></li><li><p><code>COMMAND</code>+<code>C</code>/<code>V</code>/<code>Z</code>   复制/粘贴/撤销</p></li><li><p><code>COMMAND</code>+<code>F</code> 查找</p></li><li><p><code>COMMAND</code>+<code>G</code> 查找目标在文本中的下一个位置</p></li><li><p><code>COMMAND</code>+<code>SHIFT</code>+<code>G</code> 查找目标在文本中的上一个位置</p></li></ul><h2 id="生活小妙招"><a href="#生活小妙招" class="headerlink" title="生活小妙招"></a>生活小妙招</h2><h3 id="更改Mac的默认快捷键"><a href="#更改Mac的默认快捷键" class="headerlink" title="更改Mac的默认快捷键"></a>更改Mac的默认快捷键</h3><p>主要由以下两步操作即可完成</p><p><img src="../images/Mac%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/%E8%B0%83%E5%BA%A6%E4%B8%AD%E5%BF%83.png" alt="调度中心"></p><p><img src="../images/Mac%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE/%E9%85%8D%E7%BD%AE.png" alt="配置"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Mac </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客搭建</title>
       <link href="/article/23a0e66.html"/>
       <url>/article/23a0e66.html</url>
